@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Christian Camacho. I am a self-educated dev living in Germany, currently willing to change my situation from hobby to "real" coder. I am into coding my whole life originated from Turbo Pascal 6.0 in the 90s as a school kid. Over the years I've learned and coded HTML/CSS/Js, Delphi, C++ and Java. Since 2015 I am engrossed in C#/WPF.
+- 👀 As a lonesome coder I’m interested in working together with other coders, as I never used git in a team context, but only on my own for version control.
+- 🌱 I’m currently learning the latest stuff on C#. But besides I made some first steps in Node.js as I want to get more familiar in online coding.
+- 💞️ I’m looking to collaborate on any project that is willing to have me and that is of course not too far from my current knowledge.
+- 📫 You can reach me on Twitter @CamachoChrisM
